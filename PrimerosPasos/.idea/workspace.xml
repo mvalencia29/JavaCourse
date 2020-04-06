@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxI3fmlae5aKpiM05iGqAKtrnT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Variables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="" />
+      <created>1585774120463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585774120463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="-135" key="#Project_Structure" timestamp="1585774151777">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="-135" key="#Project_Structure/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774151777" />
+    <state x="-1112" y="96" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585895233287">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="-1112" y="96" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585895233287" />
+    <state x="-1202" y="-46" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585774873079">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="-1202" y="-46" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774873079" />
+    <state x="-1180" y="-38" key="FileChooserDialogImpl" timestamp="1585774868493">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1585903709505">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1585903709505">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1585903709505">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1585903709505">
+      <screen x="-1920" y="-313" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
+  </component>
+</project>
