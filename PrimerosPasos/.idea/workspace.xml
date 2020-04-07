@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EntradaEjemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaEjemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaEjemplo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +39,23 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.EntradaEjemplo1">
+  <component name="RunManager" selected="Application.EntradaEjemplo3">
     <configuration name="EntradaEjemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EntradaEjemplo1" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntradaEjemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo2" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntradaEjemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo3" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,19 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
-      <module name="PrimerosPasos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EntradaEjemplo3" />
+        <item itemvalue="Application.EntradaEjemplo2" />
         <item itemvalue="Application.EntradaEjemplo1" />
         <item itemvalue="Application.ManipulaCadenas2" />
         <item itemvalue="Application.ManipulaCadenas" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -106,26 +115,26 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1586228181211">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1586232063221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967711" />
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586228181211" />
-    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1586228181211">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586232063221" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1586232063220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967710" />
-    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586228181211" />
-    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1586228181211">
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586232063220" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1586232063220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967710" />
-    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586228181211" />
-    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1586228181211">
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586232063220" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1586232063220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967711" />
-    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586228181211" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586232063220" />
     <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog" timestamp="1586219246390">
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
