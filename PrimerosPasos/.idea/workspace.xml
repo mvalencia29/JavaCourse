@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Condicionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccesoAplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdivinaNumero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,21 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Condicionales2">
+  <component name="RunManager" selected="Application.AdivinaNumero">
+    <configuration name="AccesoAplicacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccesoAplicacion" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdivinaNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdivinaNumero" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Condicionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicionales" />
       <module name="PrimerosPasos" />
@@ -54,20 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaEjemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo1" />
-      <module name="PrimerosPasos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EntradaEjemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo2" />
-      <module name="PrimerosPasos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EntradaEjemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EntradaEjemplo3" />
       <module name="PrimerosPasos" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdivinaNumero" />
+        <item itemvalue="Application.AccesoAplicacion" />
         <item itemvalue="Application.Condicionales2" />
         <item itemvalue="Application.Condicionales" />
         <item itemvalue="Application.EntradaEjemplo3" />
-        <item itemvalue="Application.EntradaEjemplo2" />
-        <item itemvalue="Application.EntradaEjemplo1" />
       </list>
     </recent_temporary>
   </component>
@@ -115,26 +115,26 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
-    <state width="1323" height="27" key="GridCell.Tab.0.bottom" timestamp="1586240803603">
+    <state width="1323" height="25" key="GridCell.Tab.0.bottom" timestamp="1586249939171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="27" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586238768925" />
-    <state width="1323" height="27" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586240803603" />
-    <state width="1323" height="27" key="GridCell.Tab.0.center" timestamp="1586240803603">
+    <state width="1877" height="52" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586249256080" />
+    <state width="1323" height="25" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586249939171" />
+    <state width="1323" height="25" key="GridCell.Tab.0.center" timestamp="1586249939171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="27" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586238768925" />
-    <state width="1323" height="27" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586240803603" />
-    <state width="1323" height="27" key="GridCell.Tab.0.left" timestamp="1586240803603">
+    <state width="1877" height="52" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586249256080" />
+    <state width="1323" height="25" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586249939171" />
+    <state width="1323" height="25" key="GridCell.Tab.0.left" timestamp="1586249939171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="27" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586238768925" />
-    <state width="1323" height="27" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586240803603" />
-    <state width="1323" height="27" key="GridCell.Tab.0.right" timestamp="1586240803603">
+    <state width="1877" height="52" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586249256079" />
+    <state width="1323" height="25" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586249939171" />
+    <state width="1323" height="25" key="GridCell.Tab.0.right" timestamp="1586249939171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="27" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586238768925" />
-    <state width="1323" height="27" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586240803603" />
+    <state width="1877" height="52" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586249256080" />
+    <state width="1323" height="25" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586249939171" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586237973084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
