@@ -4,7 +4,14 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="" />
+    <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManipulaCadenas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManipulaCadenas2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZxI3fmlae5aKpiM05iGqAKtrnT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,12 +36,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ManipulaCadenas2">
+    <configuration name="ManipulaCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManipulaCadenas" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulaCadenas2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManipulaCadenas2" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="PrimerosPasos" />
@@ -40,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManipulaCadenas2" />
+        <item itemvalue="Application.ManipulaCadenas" />
         <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
@@ -74,21 +102,29 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1585903709505">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1586224219739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967711" />
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586224219739" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1586224219739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967710" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586224219739" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1586224219738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967710" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586224219738" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1586224219739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586221967711" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586224219739" />
+    <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog" timestamp="1586219246390">
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1585903709505">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1585903709505">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1585903709505">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585903709505" />
+    <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586219246390" />
   </component>
 </project>

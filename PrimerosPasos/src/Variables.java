@@ -6,6 +6,6 @@ public class Variables {
 
         System.out.println(miNombre.length());
 
-        System.out.println(miNombre.charAt(miNombre.length() -1));
+        System.out.println(miNombre.charAt(miNombre.length()-1));
     }
 }
