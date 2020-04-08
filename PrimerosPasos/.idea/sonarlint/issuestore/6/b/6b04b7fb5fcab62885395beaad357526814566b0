@@ -1,0 +1,18 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "alumno4".(²ö„8¨¤Ñ’•.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Miguel" 3 times.(„Ğöö8ÙİĞ’•.
+X
+java:S1854
+";Remove this useless assignment to local variable "alumno3".(öéåã8¨¤Ñ’•.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãúŸÿÿÿÿÿ8ÙİĞ’•.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ©ƒìûÿÿÿÿ8ÿëÊ’•.
+G
+java:S1659	"%Declare "alumno4" on a separate line.(¼°ºÿÿÿÿÿ8ÍƒÒ’•.
+N
+java:S1481	",Remove this unused "alumno3" local variable.(¼°ºÿÿÿÿÿ8’€Ñ’•.
+N
+java:S1481	",Remove this unused "alumno4" local variable.(¼°ºÿÿÿÿÿ8ÍƒÒ’•.
+B
+java:S1659"%Declare "alumno2" on a separate line.(¡íë¼8çµÈ’•.

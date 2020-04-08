@@ -1,3 +1,21 @@
 
 B
 src/Variables.java,3\1\316c7853c633be1e6b921b09f98c5afd55a56f09
+I
+src/ManipulaCadenas2.java,6\b\6b04b7fb5fcab62885395beaad357526814566b0
+H
+src/EntradaEjemplo1.java,b\6\b6545fd4ce90c344871cfd4bc7aa314ee3ccc1fc
+H
+src/ManipulaCadenas.java,6\2\62a818f5e3265f1e26b28254d7983cca7d946082
+H
+src/EntradaEjemplo3.java,8\b\8bdee9ddbdfcc32145c6b7ae053b124e783844fa
+H
+src/EntradaEjemplo2.java,8\5\854ad50c5d9ad1aa0df27a917502737c65ce6b9b
+F
+src/Condicionales.java,9\f\9fc35dd4d28ec9746989a53ea59c8d8036359319
+I
+src/AccesoAplicacion.java,c\0\c094a6123f1412ece3324054b1b757c0b0cbe652
+F
+src/AdivinaNumero.java,7\5\75b744828421c33e747ba95721bd37fa14f90a61
+G
+src/Condicionales2.java,0\5\052e8bdbe3bd89613f7c8eb0bcc7dfba4aa4002d

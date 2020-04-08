@@ -7,10 +7,12 @@ public class AdivinaNumero {
         int intentos = 0;
         int puntos = 100;
 
-        while(numero!=aleatorio){
+        do{
             intentos++;
             numero = Integer.parseInt(JOptionPane.showInputDialog("Adivina el numero del 1 al 100"));
             int diferencia = 0;
+
+            
             // si es 1 es mas bajo , si es 2 es mas alto
             String sumarOrestar = "";
             if(aleatorio > numero){
@@ -22,7 +24,7 @@ public class AdivinaNumero {
                 sumarOrestar = "Bajale";
             }
 
-            String posibilidades = "Ganador !!!!!!!!!!!!";
+            String posibilidades = "Ganasteeeee !!!!!!!!";
 
             if(diferencia > 0 && diferencia <= 5){
                 posibilidades = "Estas muy pero muy cerca";
@@ -44,9 +46,9 @@ public class AdivinaNumero {
             }
 
             JOptionPane.showMessageDialog(null, posibilidades + "\n" + sumarOrestar);
-        }
+        }while(numero!=aleatorio);
 
-        if (intentos > 5){ puntos = puntos - (intentos+2); }
+        if (intentos > 5){ puntos = puntos - (intentos*2); }
         JOptionPane.showMessageDialog(null,
                 "Lo lograste." + "\n" + "Tus Puntos : " + puntos + "\n" + "Intentos : " + intentos);
     }
