@@ -1,3 +1,5 @@
 
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(¶¯ò8»”Ïà•.
 o
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8À—¯•.

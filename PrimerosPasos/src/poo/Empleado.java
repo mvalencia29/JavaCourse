@@ -1,7 +1,6 @@
 package poo;
-
-import java.util.Date;
-import java.util.GregorianCalendar;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 public class Empleado {
 
@@ -32,6 +31,13 @@ public class Empleado {
     public void subirSueldo(double porcentaje){
         sueldo += (sueldo*porcentaje)/100;
         System.out.println("El sueldo quedo en " + sueldo);
+    }
+
+    public void mostrarInformacion(){
+        System.out.println("Nombre : " + nombreEmpleado);
+        System.out.println("Sueldo : " + sueldo);
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+        System.out.println("Fecha del contrato : "+sdf.format(altaContrato));
     }
 
 }
