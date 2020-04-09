@@ -2,7 +2,7 @@ package poo.Ejercicio;
 
 public class Empleados {
 
-    private static int idSiguiente = 0;
+    private static int idSiguiente = 1;
     private int id = 0;
     private final String nombre;
     private String seccion;
@@ -10,8 +10,8 @@ public class Empleados {
     public Empleados(String nombre){
         this.nombre = nombre;
         seccion = "Administracion";
-        idSiguiente++;
         id = idSiguiente;
+        idSiguiente++;
     }
 
     public String getNombre() {
@@ -26,10 +26,17 @@ public class Empleados {
         this.seccion = seccion;
     }
 
+    public static int getIdSiguiente() {
+        return idSiguiente;
+    }
+
     public void mostrarDatosBasicos(){
+        System.out.println("=====================================");
         System.out.println("id : " + id);
         System.out.println("Nombre : " + nombre);
         System.out.println("Seccion : " + seccion);
+        System.out.println("=====================================");
     }
+
 
 }
