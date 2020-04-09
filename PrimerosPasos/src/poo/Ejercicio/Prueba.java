@@ -1,7 +1,4 @@
 package poo.Ejercicio;
-
-import poo.Empleados.Empleado;
-
 import javax.swing.*;
 
 public class Prueba {

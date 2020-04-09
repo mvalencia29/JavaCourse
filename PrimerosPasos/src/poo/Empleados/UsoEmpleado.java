@@ -5,12 +5,10 @@ import javax.swing.*;
 public class UsoEmpleado {
     public static void main(String[] args) {
 
-        Empleado[] empleados = new Empleado[3];
+        Empleado[] empleados = new Empleado[2];
 
-        for(int i =0; i<empleados.length; i++){
-            empleados[i]= new Empleado(JOptionPane.showInputDialog("Nombre Empleado :"),Double.parseDouble(JOptionPane.showInputDialog("Sueldo")),
-                    Integer.parseInt(JOptionPane.showInputDialog("Agno de Inicio")), Integer.parseInt(JOptionPane.showInputDialog("Mes de Inicio")), Integer.parseInt(JOptionPane.showInputDialog("Dia de Inicio")));
-        }
+        empleados[0]= new Empleado("Miguel");
+        empleados[1]= new Empleado("Miguel", 10000, 2020, 1, 1);
 
         for(Empleado e : empleados){
             e.mostrarInformacion();

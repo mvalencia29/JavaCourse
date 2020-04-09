@@ -28,6 +28,10 @@ public class Empleado {
         altaContrato = calendario.getTime();
     }
 
+    public Empleado(String nombreEmpleado){
+        this(nombreEmpleado, 2000, 2000, 01, 01);
+    }
+
     public void subirSueldo(double porcentaje){
         sueldo += (sueldo*porcentaje)/100;
         System.out.println("El sueldo quedo en " + sueldo);
@@ -36,8 +40,9 @@ public class Empleado {
     public void mostrarInformacion(){
         System.out.println("Nombre : " + nombreEmpleado);
         System.out.println("Sueldo : " + sueldo);
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-        System.out.println("Fecha del contrato : "+sdf.format(altaContrato));
+        //SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+        //System.out.println("Fecha del contrato : "+sdf.format(altaContrato));
+        System.out.println("Fecha del contrato : " + altaContrato);
     }
 
 }
