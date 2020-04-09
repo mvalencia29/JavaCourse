@@ -17,7 +17,6 @@ public class Array2dEjercicio {
         }
 
         for(double[] year : saldo){
-
             for(double valor : year){
                 System.out.printf("%1.2f", valor);
                 System.out.print("  ");
