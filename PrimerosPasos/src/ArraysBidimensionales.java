@@ -16,5 +16,12 @@ public class ArraysBidimensionales {
             }
             System.out.println();
         }
+
+        for(int[] fila : dosDimensiones){
+            System.out.println();
+            for(int n : fila){
+                System.out.print(n + "  ");
+            }
+        }
     }
 }
