@@ -1,4 +1,4 @@
-package poo;
+package poo.Empleados;
 
 import javax.swing.*;
 
