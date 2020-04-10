@@ -44,5 +44,4 @@ public class Empleado {
         //System.out.println("Fecha del contrato : "+sdf.format(altaContrato));
         System.out.println("Fecha del contrato : " + altaContrato);
     }
-
 }
