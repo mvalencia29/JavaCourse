@@ -1,4 +1,4 @@
-package poo.Herencia;
+package poo.Vehiculo;
 
 public class Taxi extends Vehiculo {
     private int numeroLicencia;

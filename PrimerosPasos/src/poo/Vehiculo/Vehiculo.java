@@ -1,4 +1,4 @@
-package poo.Herencia;
+package poo.Vehiculo;
 
 public class Vehiculo {
     private String matricula;

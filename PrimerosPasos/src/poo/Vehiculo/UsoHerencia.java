@@ -1,4 +1,4 @@
-package poo.Herencia;
+package poo.Vehiculo;
 
 public class UsoHerencia {
     public static void main(String[] args) {
