@@ -7,11 +7,20 @@ public class Taxi extends Vehiculo {
         return numeroLicencia;
     }
 
-    public Taxi() {
+    public Taxi(int numeroLicencia) {
+        this.numeroLicencia = numeroLicencia;
     }
 
-    public Taxi(String matricula, String modelo, String potencia, int numeroLicencia ) {
-        super(matricula, modelo, potencia);
+    public Taxi(int numeroLicencia, String matricula) {
+        super(matricula);
         this.numeroLicencia = numeroLicencia;
+    }
+
+    public void mostrarInformacion(){
+        System.out.println(getModelo());
+        System.out.println(getMatricula());
+        System.out.println(getPotencia());
+        System.out.println(getNumeroLicencia());
+        System.out.println("==============================");
     }
 }

@@ -29,7 +29,7 @@ public class Empleado {
     }
 
     public Empleado(String nombreEmpleado){
-        this(nombreEmpleado, 2000, 2000, 01, 01);
+        this(nombreEmpleado, 0, 2000, 01, 01);
     }
 
     public void subirSueldo(double porcentaje){

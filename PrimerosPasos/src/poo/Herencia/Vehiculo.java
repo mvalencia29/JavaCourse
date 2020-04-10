@@ -5,26 +5,16 @@ public class Vehiculo {
     private String modelo;
     private String potencia;
 
-    public void setMatricula(String matricula) {
-        this.matricula = matricula;
-    }
-
-    public void setModelo(String modelo) {
-        this.modelo = modelo;
-    }
-
-    public void setPotencia(String potencia) {
-        this.potencia = potencia;
-    }
-
-    public Vehiculo(String matricula, String modelo, String potencia) {
-        this.matricula = matricula;
-        this.modelo = modelo;
-        this.potencia = potencia;
-    }
-
     public Vehiculo() {
+        matricula= "HOL23A";
+        modelo = "Bmw";
+        potencia = "16CV";
+    }
 
+    public Vehiculo(String matricula) {
+        this.matricula = matricula;
+        modelo = "Bmw";
+        potencia = "16CV";
     }
 
     public String getMatricula() {
