@@ -1,4 +1,4 @@
-package poo.Ejercicio;
+package poo.ejercicio;
 
 public class Empleados {
 

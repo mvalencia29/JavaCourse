@@ -1,4 +1,4 @@
-package poo.Ejercicio;
+package poo.ejercicio;
 import javax.swing.*;
 
 public class Prueba {

@@ -1,6 +1,4 @@
-package poo.Empleados;
-
-import javax.swing.*;
+package poo.empleados;
 
 public class UsoEmpleado {
     public static void main(String[] args) {

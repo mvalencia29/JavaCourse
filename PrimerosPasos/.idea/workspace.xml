@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/Empleados/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/persona/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/persona/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/persona/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/persona/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fff8c3a6556a07b6c293ad4c266a171a838bee3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b4b141e8025d1deec12fed0d8055269df5ab3e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b4b141e8025d1deec12fed0d8055269df5ab3e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7206a1dab0105767f45eccb8c8241cd6f2780807" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Empleados/UsoEmpleado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Empleados/UsoEmpleado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/Empleados/UsoEmpleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Empleados/UsoEmpleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Ejercicio/Empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/ejercicio/Empleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Ejercicio/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/ejercicio/Prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Empleados/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Empleados/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/empleados/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Empleados/Jefes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/empleados/Jefes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Empleados/UsoEmpleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/empleados/UsoEmpleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Vehiculo/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/vehiculo/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Vehiculo/UsoHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/vehiculo/UsoHerencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Vehiculo/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/vehiculo/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +54,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.UsoEmpleado">
-    <configuration name="Array2dEjercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2dEjercicio" />
-      <module name="PrimerosPasos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Array2dEjercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2dEjercicio2" />
       <module name="PrimerosPasos" />
@@ -55,12 +62,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.Ejercicio.Prueba" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.persona.Main" />
       <module name="PrimerosPasos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poo.Ejercicio.*" />
+          <option name="PATTERN" value="poo.persona.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ejercicio.Prueba" />
+      <module name="PrimerosPasos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.ejercicio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="UsoEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.Empleados.UsoEmpleado" />
+      <option name="MAIN_CLASS_NAME" value="poo.empleados.UsoEmpleado" />
       <module name="PrimerosPasos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poo.Empleados.*" />
+          <option name="PATTERN" value="poo.empleados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="UsoHerencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.Vehiculo.UsoHerencia" />
+      <option name="MAIN_CLASS_NAME" value="poo.vehiculo.UsoHerencia" />
       <module name="PrimerosPasos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poo.Vehiculo.*" />
+          <option name="PATTERN" value="poo.vehiculo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.UsoEmpleado" />
         <item itemvalue="Application.UsoHerencia" />
         <item itemvalue="Application.Prueba" />
         <item itemvalue="Application.Array2dEjercicio2" />
-        <item itemvalue="Application.Array2dEjercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -126,10 +146,11 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1298" y="10" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586454248459" />
-    <state x="-1155" y="-109" key="#com.intellij.ide.util.MemberChooser" timestamp="1586483542076">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state x="544" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1586651628928">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1155" y="-109" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586483542076" />
+    <state x="544" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586651628928" />
     <state x="-1112" y="96" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585895233287">
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
@@ -138,33 +159,34 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1202" y="-46" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774873079" />
-    <state x="-1180" y="-38" key="FileChooserDialogImpl" timestamp="1585774868493">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1586576078612">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
-    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1586497600873">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586576078612" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1586652670856">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586497600873" />
-    <state width="1323" height="25" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586318639398" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586506426330" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586652670856" />
     <state width="1323" height="51" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586389954825" />
-    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1586497600873">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1586652670856">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586497600873" />
-    <state width="1323" height="25" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586318639398" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586506426330" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586652670856" />
     <state width="1323" height="51" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586389954825" />
-    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1586497600872">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1586652670856">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586497600872" />
-    <state width="1323" height="25" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586318639398" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586506426330" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586652670856" />
     <state width="1323" height="51" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586389954825" />
-    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1586497600873">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1586652670856">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586497600873" />
-    <state width="1323" height="25" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586318639398" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586506426330" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586652670856" />
     <state width="1323" height="51" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586389954825" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1586422732251">
       <screen x="-1920" y="-313" width="1920" height="1040" />
@@ -186,15 +208,19 @@
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586422732251" />
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586250178747" />
-    <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog" timestamp="1586452919493">
-      <screen x="-1920" y="-313" width="1920" height="1040" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586643896081">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586452919493" />
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586387708289" />
+    <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586575948822" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586643896081" />
     <state x="-1314" y="-178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586478774587">
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1314" y="-178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586478774587" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586576080141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586576080141" />
     <state x="-1297" y="-88" width="672" height="678" key="search.everywhere.popup" timestamp="1586477298967">
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>

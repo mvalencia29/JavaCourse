@@ -31,7 +31,21 @@ N
 src/ArraysBidimensionales.java,5\9\59c93fdacfb8345ac9c1c38e8645b51b7f79fba1
 J
 src/Array2dEjercicio2.java,6\2\6200db28674ca209ec40b74e318c8a700d4b2bc4
-E
-src/poo/Empleado.java,7\2\7206a1dab0105767f45eccb8c8241cd6f2780807
-H
-src/poo/UsoEmpleado.java,2\f\2fff8c3a6556a07b6c293ad4c266a171a838bee3
+w
+G.idea/sonarlint/issuestore/0/5/052e8bdbe3bd89613f7c8eb0bcc7dfba4aa4002d,e\b\eb07b11685b9812025e24ea04b105f4e71b08764
+M
+src/poo/Ejercicio/Prueba.java,5\7\57f819a40ade14f35aab7cc1de4b25afcdb90f3c
+N
+src/poo/Vehiculo/Vehiculo.java,1\3\137a66a3fb99c2bd7f73066c8812ec6343d44203
+J
+src/poo/Vehiculo/Taxi.java,3\1\31a6be620579ab0959a5a6fa579b2c42f5228f3a
+Q
+!src/poo/Vehiculo/UsoHerencia.java,3\b\3b801db6316a71e26df2f87ae1f0e062b45b86f4
+P
+ src/poo/Ejercicio/Empleados.java,1\0\10cc4fbec3609d3fe38a066e1b83162ccfb271b0
+R
+"src/poo/Empleados/UsoEmpleado.java,7\c\7c525e832cc369f8978e69ac573ea517cd51a4a4
+O
+src/poo/Empleados/Empleado.java,f\0\f0bf2a16fdf10fd9a784dc98c3d5ff749aed599c
+L
+src/poo/Empleados/Jefes.java,d\a\dac8e5f30cbc067dd390139f8e9c6ccc5e54d93d

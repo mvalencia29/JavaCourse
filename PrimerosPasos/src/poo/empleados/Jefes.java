@@ -1,4 +1,4 @@
-package poo.Empleados;
+package poo.empleados;
 
 public class Jefes extends Empleado{
 
@@ -11,7 +11,6 @@ public class Jefes extends Empleado{
     public void setIncentivo(double incentivo) {
         this.incentivo = incentivo;
     }
-
 
     public double getSueldo() {
         double sueldo = super.getSueldo();

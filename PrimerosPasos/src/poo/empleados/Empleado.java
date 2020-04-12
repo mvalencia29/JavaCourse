@@ -1,5 +1,4 @@
-package poo.Empleados;
-import java.text.SimpleDateFormat;
+package poo.empleados;
 import java.util.*;
 
 public class Empleado {
