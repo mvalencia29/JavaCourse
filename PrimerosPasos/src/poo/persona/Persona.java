@@ -2,7 +2,7 @@ package poo.persona;
 
 public abstract class Persona {
 
-    private static int idSiguiente = 1;
+    private static int idSiguiente;
     private int id = 0;
     private String nombre;
 
@@ -14,7 +14,7 @@ public abstract class Persona {
 
     public abstract String getInfoPersona();
 
-    public int getId() {
+    public int getId(){
         return id;
     }
 
