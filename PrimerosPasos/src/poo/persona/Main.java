@@ -9,6 +9,13 @@ public class Main {
         personas[3] = new Empleado("Jesus");
 
         for(Persona p: personas){
+            if(p instanceof Estudiante){
+                System.out.println("Es un estudiante");
+            }
+            else if(p instanceof Empleado){
+                System.out.println("Es un empleado");
+            }
+
             System.out.println(p.getInfoPersona());
         }
     }

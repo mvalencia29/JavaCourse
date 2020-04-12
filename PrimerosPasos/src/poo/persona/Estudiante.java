@@ -14,6 +14,6 @@ public class Estudiante extends Persona{
 
     @Override
     public String getInfoPersona() {
-        return "Tipo Persona : Estudiante, Nombre : " + getNombre() + ", Id Persona : " + getId() + ", Id Estudiante : " + idEstudiante ;
+        return "Nombre : " + getNombre() + ", Id Persona : " + getId() + ", Id Estudiante : " + idEstudiante ;
     }
 }

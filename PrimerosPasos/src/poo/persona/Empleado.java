@@ -14,6 +14,6 @@ public class Empleado extends Persona {
 
     @Override
     public String getInfoPersona() {
-        return "Tipo Persona : Empleado, Nombre : " + getNombre() + ", Id Persona : " + getId() + ", Id Empleado : " + idEmpleado ;
+        return "Nombre : " + getNombre() + ", Id Persona : " + getId() + ", Id Empleado : " + idEmpleado ;
     }
 }
