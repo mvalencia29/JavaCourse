@@ -6,14 +6,14 @@ public class Main {
         personas[0] = new Estudiante("Daniela");
         personas[1] = new Estudiante("Ana");
         personas[2] = new Empleado("Miguel");
-        personas[3] = new Empleado("Jesus");
+        personas[3] = new Gerente("Jesus");
 
         for(Persona p: personas){
-            if(p instanceof Estudiante){
+            if(p instanceof Estudiante) {
                 System.out.println("Es un estudiante");
             }
-            else if(p instanceof Empleado){
-                System.out.println("Es un empleado");
+             else if(p instanceof Gerente){
+                ((Gerente) p).hola();
             }
 
             System.out.println(p.getInfoPersona());
