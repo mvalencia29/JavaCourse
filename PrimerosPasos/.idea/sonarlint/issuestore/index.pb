@@ -69,3 +69,23 @@ Y
 )src/poo/interfaces/predefinidas/Main.java,a\4\a4a9e276f6f6e19ccc29f8f846e66a6e284f59cc
 [
 +src/poo/interfaces/predefinidas/Carros.java,d\6\d67c8a05604758718175437501e7172511f14f77
+I
+src/poo/persona/Jefe.java,2\4\24c2dbee80a429ffedb730cd6ed1733f972c1c2d
+L
+src/poo/persona/Gerente.java,1\9\1994dd8b751474074234e83cce48c019dd0d1aba
+P
+ src/poo/ejercicio/Empleados.java,a\d\ad98d4703652bf3bbe1c214c72e12fabe1af9756
+M
+src/poo/ejercicio/Prueba.java,d\3\d3937f3e80299dda27e093224ab1b5e01d5e2b7e
+R
+"src/poo/empleados/UsoEmpleado.java,f\f\ffa7f484fb7f2013234c7a23a18b0b7bc8e1303d
+O
+src/poo/empleados/Empleado.java,6\7\674a64d7abda994cd074ff241e0bb8843dccb313
+t
+Dsrc/poo/interfaces/propias/temporizador/primeraversion/DameHora.java,0\c\0ce53e85d2287cc0ae9da89dabf71b691160c7fe
+p
+@src/poo/interfaces/propias/temporizador/primeraversion/Main.java,3\e\3eb01257bcab6c994c6ebce9f7dc2be89f00a203
+q
+Asrc/poo/interfaces/propias/temporizador/segundaversion/Relog.java,d\1\d121307cbd2b75eb578ea2e379f48fab83ee7d5d
+p
+@src/poo/interfaces/propias/temporizador/segundaversion/Main.java,b\5\b5bdc1f4e55d4f5c989ece56128351255524e37b

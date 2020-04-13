@@ -1,4 +1,6 @@
-package poo.interfaces.propias.temporizador;
+package poo.interfaces.propias.temporizador.primeraversion;
+
+import poo.interfaces.propias.temporizador.primeraversion.DameHora;
 
 import javax.swing.*;
 import java.awt.event.ActionListener;

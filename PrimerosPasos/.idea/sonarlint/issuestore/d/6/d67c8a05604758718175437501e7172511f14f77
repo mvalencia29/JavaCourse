@@ -1,13 +1,13 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ8ñ’üè–.
-v
-java:S1210*"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8û¨é–.
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(÷óÉŸıÿÿÿÿ8ñ’üè–.
 T	java:S106$"9Replace this use of System.out or System.err by a logger.(·Ø´#8ñ’üè–.
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ8ñ’üè–.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(¼éİÑüÿÿÿÿ8ñ’üè–.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(×©¹”8ñ’üè–.
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(›Ùâ“şÿÿÿÿ8ñ’üè–.
 Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ó¹¡¦øÿÿÿÿ8ñ’üè–.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(›Ùâ“şÿÿÿÿ8ñ’üè–.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×©¹”8ñ’üè–.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ8ñ’üè–.
 T	java:S106"9Replace this use of System.out or System.err by a logger.(« š8å­şè–.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(÷‰îş8ñ’üè–.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(÷óÉŸıÿÿÿÿ8ñ’üè–.
+v
+java:S1210*"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8û¨é–.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ8ñ’üè–.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¼éİÑüÿÿÿÿ8ñ’üè–.
