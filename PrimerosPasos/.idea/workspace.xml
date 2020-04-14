@@ -4,14 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/propias/temporizador/segundaversion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/interfaces/propias/temporizador/DameHora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/interfaces/propias/temporizador/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/interfaces/propias/temporizador/DameHora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/interfaces/propias/temporizador/primeraversion/DameHora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/interfaces/propias/temporizador/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/interfaces/propias/temporizador/primeraversion/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b91f44ea-1c5c-44da-96e6-cbc47dd00a56" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Practica/HackerRank" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -167,11 +160,11 @@
       <screen x="-1920" y="-313" width="1920" height="1040" />
     </state>
     <state x="-1202" y="-46" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774873079" />
-    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1586576078612">
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1586806107738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1180" y="-38" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1585774868493" />
-    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586576078612" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586806107738" />
     <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1586751559790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -216,11 +209,11 @@
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586422732251" />
     <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586751559790" />
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586713260606">
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586806096341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1264" y="31" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1586575948822" />
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586643896081" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1586806096341" />
     <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586713260606" />
     <state x="-1314" y="-178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586478774587">
       <screen x="-1920" y="-313" width="1920" height="1040" />
